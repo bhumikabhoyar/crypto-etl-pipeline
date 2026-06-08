@@ -1,0 +1,7 @@
+# requirements.txt
+requests
+pandas
+boto3
+sqlalchemy
+pymysql
+python-dotenv
